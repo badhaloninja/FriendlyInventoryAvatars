@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{0b9f6820-1c21-4b1e-9f7e-114bbb120ab7}") = "FriendlyInventoryAvatars", "FriendlyInventoryAvatars\FriendlyInventoryAvatars.csproj", "{f6f1b337-710b-48d1-b656-c6ecd853fa22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{f6f1b337-710b-48d1-b656-c6ecd853fa22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f6f1b337-710b-48d1-b656-c6ecd853fa22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f6f1b337-710b-48d1-b656-c6ecd853fa22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{f6f1b337-710b-48d1-b656-c6ecd853fa22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5121f5aa-bbbb-448c-a82c-2bf3e96fec2f}
+	EndGlobalSection
+EndGlobal
