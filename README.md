@@ -1,6 +1,8 @@
 ﻿# FriendlyInventoryAvatars
 
-A [ResoniteModLoader](https://github.com/resonite-modding-group/resoniteModLoader) mod for [Resonite](https://resonite.com/). Adds a button to the inspector to expand all visible slots on an inspector
+A [ResoniteModLoader](https://github.com/resonite-modding-group/resoniteModLoader) mod for [Resonite](https://resonite.com/). Makes the inventory only clear blocking avatars when equipping instead of everything thats equipped
+
+You can learn more about avatars and bodynodes [here](https://wiki.resonite.com/Equipping_Multiple_Avatars)
 
 ## Installation
 1. Install [ResoniteModLoader](https://github.com/resonite-modding-group/resoniteModLoader).
